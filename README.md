@@ -1,4 +1,4 @@
-![Banner Image](banner-image.jpng)
+![Banner Image](banner-image.jpeg)
 
 # 👋 Hi there! I'm **Pradeep Sharma**
 **⚡Frontend Web Developer | 🐍 Python | 🟨 JavaScript | 🌐 Networking Enthusiast**
